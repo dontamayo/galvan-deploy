@@ -1,5 +1,3 @@
-# galvan-deploy
-
 # Galvan the bot!
 
 
