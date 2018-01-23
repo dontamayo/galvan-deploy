@@ -3,7 +3,7 @@
 # Galvan the bot!
 
 
-### My Nmae is Galvan!
+### My Name is Galvan!
 ### start chatting with me on fb message!  https://www.facebook.com/galvanthebot/
 
 #### Q2 project
